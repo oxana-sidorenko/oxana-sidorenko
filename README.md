@@ -26,8 +26,8 @@
 
 |Название|Описание|Стек|
 |--------|--------|----|
-|Анализ поведения пользователей в EdTech ([ссылка](https://github.com/oxana-sidorenko))|EDA, выбор и расчет продуктовых метрик, проверка гипотез, анализ результатов А/B-теста, подключение к БД, составление SQL-запросов, написание функций с помощью Python|Python (pandas, pandahouse, seaborn, matplotlib, scipy.stats, pingouin, requests, urllib.parse, warnings), SQL (ClickHouse), A/B-тестирование|
-|Анализ покупок/пользователей в e-commerce ([ссылка](https://github.com/oxana-sidorenko))|EDA, поиск ответов на продуктовые вопросы насчет покупок и пользователей (например, кол-во пользователей, которые совершили только одну покупку, кол-во недоставленных заказов в месяц и т. д.), когортный анализ с расчетом Retention, RFM-анализ|Python (pandas, numpy, seaborn, matplotlib, squarify, requests, urllib.parse)|
+|Анализ поведения пользователей в EdTech ([ссылка](https://github.com/oxana-sidorenko/edtech_project))|EDA, выбор и расчет продуктовых метрик, проверка гипотез, анализ результатов А/B-теста, подключение к БД, составление SQL-запросов, написание функций с помощью Python|Python (pandas, pandahouse, seaborn, matplotlib, scipy.stats, pingouin, requests, urllib.parse, warnings), SQL (ClickHouse), A/B-тестирование|
+|Анализ покупок/пользователей в e-commerce ([ссылка](https://github.com/oxana-sidorenko/e-commerce_project))|EDA, поиск ответов на продуктовые вопросы насчет покупок и пользователей (например, кол-во пользователей, которые совершили только одну покупку, кол-во недоставленных заказов в месяц и т. д.), когортный анализ с расчетом Retention, RFM-анализ|Python (pandas, numpy, seaborn, matplotlib, squarify, requests, urllib.parse)|
 
 ## Контакты
 
