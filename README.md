@@ -26,7 +26,7 @@
 
 |Название|Описание|Стек|
 |--------|--------|----|
-|A/B-контест от Samokat.tech ([ссылка](https://github.com/oxana-sidorenko/samokat.tech_fraud_ab-testing))|EDA, дизайн А/Б-теста, продуктовые вопросы|Python (pandas, pandahouse, seaborn, matplotlib, scipy.stats, pingouin, requests, urllib.parse, warnings), SQL (ClickHouse), A/B-тестирование|
+|A/B-контест от Samokat.tech ([ссылка](https://github.com/oxana-sidorenko/samokat.tech_fraud_ab-testing))|EDA, дизайн А/Б-теста, продуктовые вопросы|Python (pandas, numpy, seaborn, matplotlib, scipy.stats, requests, urllib.parse), A/B-тестирование|
 |Анализ поведения пользователей в EdTech ([ссылка](https://github.com/oxana-sidorenko/edtech_project))|EDA, выбор и расчет продуктовых метрик, анализ результатов А/B-теста, составление SQL-запросов, написание функций с помощью Python|Python (pandas, pandahouse, seaborn, matplotlib, scipy.stats, pingouin, requests, urllib.parse, warnings), SQL (ClickHouse), A/B-тестирование|
 |Анализ покупок/пользователей в e-commerce ([ссылка](https://github.com/oxana-sidorenko/e-commerce_project))|EDA, продуктовые вопросы о покупках и пользователях, когортный анализ с расчетом Retention, RFM-анализ|Python (pandas, numpy, seaborn, matplotlib, squarify, requests, urllib.parse)|
 
