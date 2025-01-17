@@ -1,8 +1,6 @@
 <h1 align="left">Привет, я Оксана
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Имея высшее экономическое образование и опыт в сфере анализа данных в FMCG компании и ритейле, я поняла, что хочу погружаться в аналитику глубже и изучать актуальные инструменты, которые широко используются в IT-сфере (Python, SQL и т. д.). Поэтому сейчас я активно развиваюсь в направлении анализа данных: систематизирую знания в голове и совершенствую навыки владения стеком, делаю проекты и смотрю доклады с различных митапов, чтобы в том числе прокачивать продуктовое мышление.
-
 ## Стек
 
 <div align="center">
@@ -13,12 +11,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
 <img src="https://cdn.simpleicons.org/scipy" height="40"/>
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40"/>
 <img src="https://cdn.simpleicons.org/clickhouse" height="40"/>
 <img src="https://cdn.simpleicons.org/postgresql" height="40"/>
-<img src="https://cdn.simpleicons.org/powerbi" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
 <img src="https://cdn.simpleicons.org/redash" height="40"/>
-<img src="https://cdn.simpleicons.org/tableau" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40"/>
 
 </div>
 
